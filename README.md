@@ -1,2 +1,2 @@
 # Exercicios-em-python
- Resolvendo alguns exercicios em python
+ Resolvendo questões de lógica de programação em na linguagem python.
