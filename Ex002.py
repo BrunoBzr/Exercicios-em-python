@@ -1,2 +1,2 @@
-nome = input('Informe o seu nome: ')
+nome = input('Qual  e o seu nome: ')
 print(f'Olá {nome}, é um prazer te conhecer!')
