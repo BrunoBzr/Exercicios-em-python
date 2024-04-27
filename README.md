@@ -1,6 +1,6 @@
 # Exercicios em python
 
-## Resolvendo questões de lógica de programação na linguagem python.
+## Resolvendo uma lista de exercicios na linguagem python.
 
 #### Ex001: Escreva um programa que mostre na tela a mensagem "Olá, Mundo!"
 
@@ -20,7 +20,7 @@
 * Nome do Funcionário: Maria do Carmo
 * Salário: 1850.45
 ##### Saída:
-* O funcionário Maria do Carmo tem um salário de R$1850.45
+* O funcionário Maria do Carmo recebe R$1850.45 por mês.
 
 #### Ex004: Desenvolva um algoritmo que leia dois números inteiros e mostre o somatório entre eles. Ex:
 
@@ -28,7 +28,7 @@
 * Digite um valor: 8
 * Digite outro valor: 5
 ##### Saída:
-* A soma entre 8 e 5 é igual a 13.
+* 8 + 5 = 13
 
 #### Ex005: Faça um programa que leia as duas notas de um aluno em uma matéria e mostre na tela a sua média na disciplina.Ex:
 
