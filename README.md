@@ -53,3 +53,5 @@
 ##### Saída:
 * O dobro de 3.5 é 7.0
 * A terça parte de 3.5 é 1.16666
+
+#### Faça um algoritmo que leia quanto dinheiro uma pessoa tem na carteira (em R$) e mostre quantos dólares ela pode comprar. Considere US$1,00 = R$3,45
