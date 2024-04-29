@@ -38,10 +38,18 @@
 ##### Saída:
 * A média entre 4.5 e 8.5 é igual a 6.5
 
-#### Faça um programa que leia um número inteiro e mostre o seu antecessor e seu sucessor. Ex:
+#### Ex006: Faça um programa que leia um número inteiro e mostre o seu antecessor e seu sucessor. Ex:
 
 ##### Entrada: 
 * Digite um número: 9
 ##### Saída: 
 * O antecessor de 9 é 8
 * O sucessor de 9 é 10
+
+#### Ex007: Crie um algoritmo que leia um número real e mostre na tela o seu dobro e a sua terça parte. Ex:
+
+##### Entrada: 
+* Digite um número: 3.5
+##### Saída:
+* O dobro de 3.5 é 7.0
+* A terça parte de 3.5 é 1.16666
